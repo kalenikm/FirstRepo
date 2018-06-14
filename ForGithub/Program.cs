@@ -10,6 +10,7 @@ namespace ForGithub
         static void Main(string[] args)
         {
 		Console.WriteLine("Hello!");
+		Console.ReadKey();
         }
     }
 }
